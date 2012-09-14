@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/servewindowsapp" android:titleCondensed="Serve App" android:title="Serve Windows Application" android:visible="true" android:enabled="true"></item>
+    
+</menu>
